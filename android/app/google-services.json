@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "556204564529",
+    "firebase_url": "https://lojaflutter-2a582-default-rtdb.firebaseio.com",
+    "project_id": "lojaflutter-2a582",
+    "storage_bucket": "lojaflutter-2a582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556204564529:android:f5e1c3b10bac362b62b510",
+        "android_client_info": {
+          "package_name": "br.com.erick.gerenteloja.gerenciamento_loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556204564529-e063p5cimj2vmbgp4kt3o4v186ss9231.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDxbBrlPRXJzRUkvcxxgQfE5pYSgh5odg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556204564529-e063p5cimj2vmbgp4kt3o4v186ss9231.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556204564529:android:f08c4183d6d5371f62b510",
+        "android_client_info": {
+          "package_name": "br.com.erick.untitled9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556204564529-e063p5cimj2vmbgp4kt3o4v186ss9231.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDxbBrlPRXJzRUkvcxxgQfE5pYSgh5odg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556204564529-e063p5cimj2vmbgp4kt3o4v186ss9231.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556204564529:android:9fd17486c3e515d162b510",
+        "android_client_info": {
+          "package_name": "br.com.goncalves.loja_de_vendas_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556204564529-e063p5cimj2vmbgp4kt3o4v186ss9231.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDxbBrlPRXJzRUkvcxxgQfE5pYSgh5odg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556204564529-e063p5cimj2vmbgp4kt3o4v186ss9231.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
